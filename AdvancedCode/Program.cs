@@ -10,6 +10,7 @@ namespace AdvancedCode
     {
         static void Main(string[] args)
         {
+            MyOrgEntities OE = new MyOrgEntities();
         }
     }
 }
